@@ -2,9 +2,9 @@ Bom(a) dia/tarde/noite!
 
 Vou contar um pouco da experiencia que tive desenvolvento este projeto.
 
-A unica extensão flutter que utilizei foi a http.
+🚨A unica extensão flutter que utilizei foi a http.🚨
 
-O aplicativo roda sem que a API esteja startada, porém, se não startar a API não será possivel logar para vizualizar a segunda tela.
+🚨🚨O aplicativo roda sem que a API esteja startada, porém, se não startar a API não será possivel logar para vizualizar a segunda tela.🚨🚨
 
 ---------Parte 1 - Front de formulário Usuário e Senha---------
 
